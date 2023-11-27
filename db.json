@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "gohul",
+      "email": "gohul@gmail.com",
+      "password": "Gohul*123"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "password": "Sam*1234"
+    },
+    {
+      "id": 3,
+      "name": "victor",
+      "email": "victor@gmail.com",
+      "password": "Victor*123"
+    },
+    {
+      "id": 4,
+      "name": "victor",
+      "email": "victor@gmail.com",
+      "password": "Vicot*123"
+    },
+    {
+      "id": 5,
+      "name": "sdkjn",
+      "email": "Sam1@gmail.com",
+      "password": "Sam*1234"
+    },
+    {
+      "id": 6,
+      "name": "dharani",
+      "email": "dharani@gmail.com",
+      "password": "Dd*12345"
+    }
+  ]
+}
